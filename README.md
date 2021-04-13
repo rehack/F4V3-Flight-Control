@@ -1,7 +1,7 @@
 # F4V3飞控
 
-![正面](./BOM/top.png)
-![反面](./BOM/bottom.png)
+![正面](./3.BOM/top.png)
+![反面](./3.BOM/bottom.png)
 
 ### 使用说明
 
